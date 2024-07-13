@@ -35,7 +35,7 @@ const Sidebar = ({isOpen}) => {
       <a href="/#about">About</a>
       <a href="/#projects">Projects</a>
       <a href="/#contact">Contact</a>
-      <a href="/#resume" id="resume">Resume</a>
+      {/* <a href="/#resume" id="resume">Resume</a> */}
      </Ul>
     );
   };
