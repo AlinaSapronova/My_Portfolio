@@ -137,7 +137,7 @@ padding-bottom:20px;
 `;
 
 const Projects = () => {
-    const [projects, setProjects] = useState(data)
+    const [projects] = useState(data)
 
 
     return (
