@@ -56,8 +56,9 @@ function App() {
        <Wrapper>
         <p>Hello everybody, my name is</p>
         <h1>Alina Sapronova</h1>
-        <h2>I am a web developer. My passion is building simple, beautiful user experiences.</h2>
-        <p>"Most good programmers do their jobs not because they expect to be paid or recognized, but because they enjoy programming". Linus Torvalds</p>
+        <h2>I am a web developer passionate about crafting elegant and intuitive user experiences. I thrive on turning complex challenges into simple, beautiful solutions that truly connect with users.</h2>
+        <p>As Grace Hopper once said, "The most damaging phrase in the language is, 'It's always been done that way.'"  
+        This mindset inspires me to continuously innovate and challenge the status quo in every project.  </p>
       </Wrapper>
       <About/>
       <Projects/>
